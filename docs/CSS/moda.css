@@ -1,0 +1,150 @@
+#principal{
+	width: 1000px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin: auto;
+
+}
+
+header{
+	width: 850px;
+	height: 20px;
+	border: 0px solid #000;
+}
+
+#Buscar{
+float: right
+}
+
+#logo{
+	width: 650px;
+	height: 35px;
+	border: 0px solid #000;
+	float: right; font-family: bold italic;
+}
+
+.titulo{
+	margin-top: 20px;
+	font-size: 40px;
+}
+
+.sub-titulo{
+	font-size: 14px;
+	margin-top: -20px;
+}
+
+.menu{
+	width: 800px;
+	height: 50px;
+	border: 1px solid #ccc;
+	float: right;
+	margin-top: 40px;
+	background: #062738;
+}
+
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: left;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 0px solid #f3eeee;
+	color: #fff; 
+}
+
+.menu ul li a:hover{
+	background: #f1ebeb;
+	color: #fd0202;
+	transition: background 1s, color 1s;
+}
+
+#slide{
+	margin-top: 150px;
+	width: 900px;
+	height: 350px;
+	border: 2px solid;
+}
+
+#categorias{
+	width: 900px;
+	height: 160px;
+	border: 0px solid;
+	margin-top: 25px;
+}
+
+.uno{
+	width: 280px;
+	height: 600;
+	border: 1px solid #000000;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	color: #4682b4;
+}
+
+.parrafo{
+	color: #000000;
+	text-align: justify;
+}
+.dos{
+	margin-left: 12px;
+	margin-right: 12px;
+}
+
+.leer-mas{
+	text-decoration: none;
+	border: 1px solid #006699;
+	padding: 10px 20px 10px 20px;
+	margin-bottom: 10px;
+}
+
+.leer-mas:hover{
+	background: #006699;
+	color: #000000;
+	transition: background 1s, color 1s;
+}
+
+
+#izq{
+	width: 985px;
+	height: auto; overflow: hidden;
+	border: 1px solid rgb(0, 0, 0);
+	float: left;
+	padding: 5px; color: #4682b4;
+}
+
+.img{
+	margin-right: 1px;
+	margin-bottom: 1px;
+}
+
+
+#der{
+	width: 895px;
+	height: 360px;
+	border: 1px solid #000000;
+	float: left;
+	text-align: center;
+	color: #4682b4;
+}
+
+footer{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+}
+
+#Derechos{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #c0c0c0;
+	margin-top: 10px; color: 
+}
+
+#footer p{
+	width: 500px;
+}

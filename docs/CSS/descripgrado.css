@@ -1,0 +1,204 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+header {
+    background: #28a745;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+	margin-bottom: 150px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+section {
+    margin: 50px;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+	margin-left: 310px;
+	margin-bottom: 40px;
+    padding: 10px 0;
+    background: #28a745;
+    color: #ffffff;
+}
+
+
+
+
+
+#principal{
+	width: 1000px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin: auto;
+
+}
+
+header{
+	margin-top: 50px;
+	margin-left: 50px;
+	width: 1480px;
+	height: 100px;
+	border: 0px solid #000;
+}
+
+#Buscar{
+float: right
+}
+
+#logo{
+	width: 750px;
+	height: 80px;
+	border: 0px solid #000;
+	float: left; font-family: sans-serif;
+}
+
+.titulo{
+	margin-top: 25px;
+	font-size: 30px;
+}
+
+.sub-titulo{
+	font-size: 14px;
+	margin-top: -20px;
+}
+
+.menu{
+	width: 1150px;
+	height: 70px;
+	border: 1px solid #ccc;
+	float: center;
+	margin-top: 60px;
+	margin-left: 150px;
+	background: #062738;
+}
+
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: left;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 0px solid #f3eeee;
+	color: #fff; 
+}
+
+.menu ul li a:hover{
+	background: #f1ebeb;
+	color: #fd0202;
+	transition: background 1s, color 1s;
+}
+
+#slide{
+	margin-top: -5px;
+	width: 900px;
+	height: 250px;
+}
+
+#categorias{
+	width: 900px;
+	height: 560px;
+	border: 0px solid;
+	margin-top: 300px;
+}
+
+.uno{
+	width: 280px;
+	height: 600;
+	border: 1px solid #000000;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	color: #4682b4;
+}
+
+.parrafo{
+	color: #000000;
+	text-align: justify;
+}
+.dos{
+	margin-left: 12px;
+	margin-right: 12px;
+}
+
+.leer-mas{
+	text-decoration: none;
+	border: 1px solid #006699;
+	padding: 10px 20px 10px 20px;
+	margin-bottom: 10px;
+}
+
+.leer-mas:hover{
+	background: #006699;
+	color: #000000;
+	transition: background 1s, color 1s;
+}
+
+
+#izq{
+	width: 985px;
+	height: auto; overflow: hidden;
+	border: 1px solid rgb(0, 0, 0);
+	float: left;
+	padding: 5px; color: #4682b4;
+}
+
+.img{
+	margin-right: 1px;
+	margin-bottom: 1px;
+}
+
+
+#der{
+	width: 995px;
+	height: 360px;
+	border: 1px solid #000000;
+	float: right;
+	text-align: center;
+	color: 
+}
+
+footer{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+}
+
+#Derechos{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #c0c0c0;
+	margin-top: 10px; color: 
+}
+
+#footer p{
+	width: 300px;
+}

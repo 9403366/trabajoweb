@@ -1,0 +1,256 @@
+#principal{
+	width: 1000px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin: auto;
+
+}
+
+header{
+	width: 850px;
+	height: 200px;
+	border: 0px solid #000;
+}
+
+#Buscar{
+float: right
+}
+
+#logo{
+	width: 950px;
+	height: 80px;
+	border: 0px solid #000;
+	float: left; font-family: sans-serif;
+}
+
+.titulo{
+	margin-top: 35px;
+	font-size: 40px;
+}
+
+.sub-titulo{
+	font-size: 14px;
+	margin-top: -20px;
+}
+
+.menu{
+	width: 850px;
+	height: 50px;
+	border: 1px solid #ccc;
+	float: right;
+	margin-top: 40px;
+	background: #062738;
+}
+
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: left;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 0px solid #f3eeee;
+	color: #fff; 
+}
+
+.menu ul li a:hover{
+	background: #f1ebeb;
+	color: #fd0202;
+	transition: background 1s, color 1s;
+}
+
+#slide{
+	margin-top: -5px;
+	width: 600px;
+	height: 250px;
+}
+
+#categorias{
+	width: 900px;
+	height: 860px;
+	border: 0px solid #180909;
+	margin-top: -260px;
+}
+
+.uno{
+	width: 900px;
+	height: 920;
+	border: 2px solid #000000;
+	float: center;
+	padding: 20px;
+	text-align: center;
+	color: #4682b4;
+	margin-top: 12px
+}
+
+.dos{
+	width: 900px;
+	height: 920;
+	border: 2px solid #000000;
+	float: center;
+	padding: 20px;
+	text-align: center;
+	color: #4682b4;
+	margin-top: 12px
+}
+
+.tres{
+	width: 932px;
+	height: 800;
+	border: 2px solid #000000;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	color: #4682b4;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.cuatro{
+	width: 932px;
+	height: 800;
+	border: 2px solid #000000;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	color: #4682b4;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.cinco{
+	width: 932px;
+	height: 800;
+	border: 2px solid #000000;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	color: #4682b4;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.seis{
+	width: 932px;
+	height: 800;
+	border: 2px solid #000000;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	color: #4682b4;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+.parrafo{
+	color: #000000;
+	text-align: justify;
+}
+
+
+.leer-mas{
+	text-decoration: none;
+	border: 1px solid #006699;
+	padding: 10px 20px 10px 20px;
+	margin-bottom: 10px;
+}
+
+.leer-mas:hover{
+	background: #006699;
+	color: #000000;
+	transition: background 1s, color 1s;
+}
+
+
+#izq{
+	width: 985px;
+	height: auto; overflow: hidden;
+	border: 1px solid rgb(0, 0, 0);
+	float: left;
+	padding: 5px; color: #4682b4;
+}
+
+.img{
+	margin-right: 1px;
+	margin-bottom: 1px;
+}
+
+
+#der{
+	width: 995px;
+	height: 360px;
+	border: 1px solid #000000;
+	float: right;
+	text-align: center;
+	color: 
+}
+
+footer{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+}
+
+#Derechos{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #c0c0c0;
+	margin-top: 10px; color: 
+}
+
+#footer p{
+	width: 500px;
+}
+
+/*------------contacto------------------------*/
+
+#Hora{
+	text-align: right;
+	float: right;
+	width: 100px;
+	}
+
+#formulario{
+	width: 432px;
+	height: 454px;
+	overflow: hidden;
+	border: 1px solid rgb(0, 0, 0);
+	padding: 5px;
+	float: left
+}
+
+#mapa{
+	width: 432px;
+	height: auto;
+	overflow: hidden;
+	border: 1px solid rgb(0, 0, 0);
+	padding: 5px;
+	float: right;
+}
+
+input[type="text"]{
+	border: 1px solid #c1c1c1; padding: 6px;
+	width: 97%;
+}
+
+textarea{
+	border: 1px solid #c1c1c1; padding: 6px;
+	width: 97%;
+}
+
+.enviar{
+	padding: 10px 20px;
+	background: #006699;
+	color: #000000;
+	font-size: 14px;
+}
+
+#form{}
+
+#datos{
+	margin-top: 30px;
+}
