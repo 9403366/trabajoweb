@@ -21,3 +21,10 @@ presentando de manera eficaz información sobre mi y la pagina web simple desarr
 
 Las dificultades que he encontrado han sido simplemente a la hora de cuadrar las medidas de los cuadros de texto o simplemente el texto dentros de los cuadros de color
 que se ven en la pagina web. (En el archivo CSS)
+
+# Conclusiones
+
+Las conclusiones que he sacado del trabajo son las siguientes:
+- Hacer una página web simple pero que tenga detalles de colores o menus con hipervinculos, conlleva dedicarle bastante tiempo.
+- He intentado aplicar todos los conocimientos adquiridos en el grado superior cursado anteriormente y los adquiridos actualmente.
+
