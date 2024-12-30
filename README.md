@@ -16,3 +16,8 @@ presentando de manera eficaz información sobre mi y la pagina web simple desarr
 - La sección de grado (degree.html) proporcionará una descripción detallada del grado, con su propósito y estructura que ofrece una exploración en profundidad de su contenido, objetivos y resultados de aprendizaje.
 
 - Una sección acerca de mí (about.html), que incluirá una breve descripción sobre mi inspirada.
+
+# Dificultades
+
+Las dificultades que he encontrado han sido simplemente a la hora de cuadrar las medidas de los cuadros de texto o simplemente el texto dentros de los cuadros de color
+que se ven en la pagina web. (En el archivo CSS)
