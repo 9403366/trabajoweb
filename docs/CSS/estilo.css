@@ -1,4 +1,4 @@
-.principal{
+#principal{
 	width: 1000px;
 	height: auto; overflow: hidden;
 	border: 0px solid #000;
@@ -6,17 +6,17 @@
 
 }
 
-.header{
+header{
 	width: 850px;
 	height: 200px;
 	border: 0px solid #000;
 }
 
-.Buscar{
+#Buscar{
 float: right
 }
 
-.logo{
+#logo{
 	width: 950px;
 	height: 80px;
 	border: 0px solid #000;
@@ -62,13 +62,13 @@ float: right
 	transition: background 1s, color 1s;
 }
 
-.slide{
+#slide{
 	margin-top: -5px;
 	width: 600px;
 	height: 250px;
 }
 
-.categorias{
+#categorias{
 	width: 900px;
 	height: 860px;
 	border: 0px solid #180909;
@@ -166,7 +166,7 @@ float: right
 }
 
 
-.izq{
+#izq{
 	width: 985px;
 	height: auto; overflow: hidden;
 	border: 1px solid rgb(0, 0, 0);
@@ -180,7 +180,7 @@ float: right
 }
 
 
-.der{
+#der{
 	width: 995px;
 	height: 360px;
 	border: 1px solid #000000;
@@ -189,20 +189,20 @@ float: right
 	color: 
 }
 
-.footer{
+footer{
 	width: 100px;
 	height: 100px;
 	text-align: center;
 }
 
-.Derechos{
+#Derechos{
 	width: 900px;
 	height: auto; overflow: hidden;
 	border: 0px solid #c0c0c0;
 	margin-top: 10px; color: 
 }
 
-.footer p{
+#footer p{
 	width: 500px;
 }
 
