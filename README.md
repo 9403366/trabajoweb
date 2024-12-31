@@ -19,12 +19,15 @@ presentando de manera eficaz información sobre mi y la pagina web simple desarr
 
 # Dificultades
 
-Las dificultades que he encontrado han sido simplemente a la hora de cuadrar las medidas de los cuadros de texto o simplemente el texto dentros de los cuadros de color
+-Las dificultades que he encontrado han sido tales como a la hora de cuadrar las medidas de los cuadros de texto o el texto dentros de los cuadros de color
 que se ven en la pagina web. (En el archivo CSS)
+-Otra de las dificultades que he encontrado ha sido a la hora de subir todos los archivos al github, los .css no funcionaban, las imágenes no se veían correctamente y diferentes problemas.
+-Había implementado un video en el apartado de las marcas de lujo que ocupaba 112MB y no he podido subirlo.
 
 # Conclusiones
 
 Las conclusiones que he sacado del trabajo son las siguientes:
 - Hacer una página web simple pero que tenga detalles de colores o menus con hipervinculos, conlleva dedicarle bastante tiempo.
 - He intentado aplicar todos los conocimientos adquiridos en el grado superior cursado anteriormente y los adquiridos actualmente.
+- He conseguido solucionar los diversos problemas que se me han ido poniendo por el camino, consiguiendo entregar la pagina web siendo funcional.
 
