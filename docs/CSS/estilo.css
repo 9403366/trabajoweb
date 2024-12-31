@@ -1,4 +1,4 @@
-principal{
+.principal{
 	width: 1000px;
 	height: auto; overflow: hidden;
 	border: 0px solid #000;
@@ -6,34 +6,34 @@ principal{
 
 }
 
-header{
+.header{
 	width: 850px;
 	height: 200px;
 	border: 0px solid #000;
 }
 
-Buscar{
+.Buscar{
 float: right
 }
 
-logo{
+.logo{
 	width: 950px;
 	height: 80px;
 	border: 0px solid #000;
 	float: left; font-family: sans-serif;
 }
 
-titulo{
+.titulo{
 	margin-top: 35px;
 	font-size: 40px;
 }
 
-sub-titulo{
+.sub-titulo{
 	font-size: 14px;
 	margin-top: -20px;
 }
 
-menu{
+.menu{
 	width: 850px;
 	height: 50px;
 	border: 1px solid #ccc;
@@ -42,40 +42,40 @@ menu{
 	background: #062738;
 }
 
-menu ul{}
+.menu ul{}
 
-menu ul li{
+.menu ul li{
 	list-style: none;
 	float: left;
 }
 
-menu ul li a{
+.menu ul li a{
 	text-decoration: none;
 	padding: 10px 15px;
 	border: 0px solid #f3eeee;
 	color: #fff; 
 }
 
-menu ul li a:hover{
+.menu ul li a:hover{
 	background: #f1ebeb;
 	color: #fd0202;
 	transition: background 1s, color 1s;
 }
 
-slide{
+.slide{
 	margin-top: -5px;
 	width: 600px;
 	height: 250px;
 }
 
-categorias{
+.categorias{
 	width: 900px;
 	height: 860px;
 	border: 0px solid #180909;
 	margin-top: -260px;
 }
 
-uno{
+.uno{
 	width: 900px;
 	height: 920;
 	border: 2px solid #000000;
@@ -86,7 +86,7 @@ uno{
 	margin-top: 12px
 }
 
-dos{
+.dos{
 	width: 900px;
 	height: 920;
 	border: 2px solid #000000;
@@ -97,7 +97,7 @@ dos{
 	margin-top: 12px
 }
 
-tres{
+.tres{
 	width: 932px;
 	height: 800;
 	border: 2px solid #000000;
@@ -109,7 +109,7 @@ tres{
 	margin-bottom: 10px;
 }
 
-cuatro{
+.cuatro{
 	width: 932px;
 	height: 800;
 	border: 2px solid #000000;
@@ -121,7 +121,7 @@ cuatro{
 	margin-bottom: 10px;
 }
 
-cinco{
+.cinco{
 	width: 932px;
 	height: 800;
 	border: 2px solid #000000;
@@ -133,7 +133,7 @@ cinco{
 	margin-bottom: 10px;
 }
 
-seis{
+.seis{
 	width: 932px;
 	height: 800;
 	border: 2px solid #000000;
@@ -146,13 +146,13 @@ seis{
 }
 
 
-parrafo{
+.parrafo{
 	color: #000000;
 	text-align: justify;
 }
 
 
-leer-mas{
+.leer-mas{
 	text-decoration: none;
 	border: 1px solid #006699;
 	padding: 10px 20px 10px 20px;
@@ -166,7 +166,7 @@ leer-mas{
 }
 
 
-izq{
+.izq{
 	width: 985px;
 	height: auto; overflow: hidden;
 	border: 1px solid rgb(0, 0, 0);
@@ -174,13 +174,13 @@ izq{
 	padding: 5px; color: #4682b4;
 }
 
-img{
+.img{
 	margin-right: 1px;
 	margin-bottom: 1px;
 }
 
 
-der{
+.der{
 	width: 995px;
 	height: 360px;
 	border: 1px solid #000000;
@@ -189,20 +189,20 @@ der{
 	color: 
 }
 
-footer{
+.footer{
 	width: 100px;
 	height: 100px;
 	text-align: center;
 }
 
-Derechos{
+.Derechos{
 	width: 900px;
 	height: auto; overflow: hidden;
 	border: 0px solid #c0c0c0;
 	margin-top: 10px; color: 
 }
 
-footer p{
+.footer p{
 	width: 500px;
 }
 
